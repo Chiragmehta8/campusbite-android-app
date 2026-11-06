@@ -1,0 +1,9 @@
+<resources>
+    <color name="campus_background">#FFF9F1</color>
+    <color name="campus_card">#FFFFFF</color>
+    <color name="campus_text">#24231F</color>
+    <color name="campus_muted">#77736B</color>
+    <color name="campus_green">#E66B32</color>
+    <color name="campus_button">#F2E7DC</color>
+    <color name="campus_border">#E9DED2</color>
+</resources>

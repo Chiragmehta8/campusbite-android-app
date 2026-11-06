@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.CampusBite" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">#FFF9F1</item>
+        <item name="android:navigationBarColor">#FFF9F1</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="colorPrimary">#E66B32</item>
+    </style>
+</resources>
